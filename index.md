@@ -1,10 +1,11 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/mhasan1/maryam.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a senior data scientist. I am interested in developing efficient machine learning and deep learning algorithms that solve challenging problems in natural language processing and natural language understanding. 
+I completed my PhD in computer science at the Worcester Polytechnic Institute in May, 2021. My advisor was Professor Elke Rundensteiner [https://www.wpi.edu/people/faculty/rundenst]. My PhD research has been mainly focused on text classification using Machine Learning, Deep Transfer Learning and Natural Language Processing methods. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My current research focuses on learning from few labeled examples through transfer and semi-supervised learning.
 
-### Markdown
+### Publications
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
