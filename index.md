@@ -1,12 +1,10 @@
-
-## Maryam Hasan
-
+PhD, Machine Learning, Natural Language Processing
 I am interested in developing efficient machine learning and deep learning algorithms to solve challenging problems in natural language processing and natural language understanding. 
 I completed my PhD in computer science at the Worcester Polytechnic Institute in May, 2021. My advisor was Professor [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst). My PhD research has been mainly focused on text classification using Machine Learning, Deep Transfer Learning and Natural Language Processing methods. 
 
 My current research focuses on learning from few labeled examples through transfer and semi-supervised learning.
 
-### Publications
+## Publications
 
 -	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, DeepEmotex: Classifying Emotion in Text Messages using Deep Transfer Learning, IEEE Big Data: Machine Learning on Big Data (IEEE BigData, MLBD), December 2021. 
 -	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, Automatic Emotion Detection in Text Streams by Analyzing Twitter data, International Journal of Data Science and Analytics, Springer 2019.
@@ -18,19 +16,31 @@ My current research focuses on learning from few labeled examples through transf
 -	Maryam Hasan, Eleni Stroulia, Denilson Barbosa and Manar Alalfi, Analyzing Natural Language Artifacts of the Software Process, Early Research Achievement track of the 26th IEEE International Conference on Software Maintenance (ICSM'2010), Timisoara, Romania, September 2010.
 -	Yi Shi, Maryam Hasan, Zhipeng Cai, Guohui Lin and Dale Schuurmans, Linear coherent bi-cluster discovery via beam detection and sample set clustering, International Conference on Combinatorial Optimization and Applications (COCOA 2010). The Big Island, Hawaii, United States. December 2010.
 
-### Projects
-1. DeepEmotex: A Deep Transfer Learning framework to Classify Emotion in Text Messages, 2021
+## Projects
+### DeepEmotex: A Deep Transfer Learning framework to Classify Emotion in Text Messages, 2021
 -	Developed a deep transfer learning method to learn domain-specific features from context.
 - Fine-tuned pre-trained natural language models (e.g., BERT and USE) on the target classification task. 
 -  Developed a baseline neural network model (i.e., Bi-LSTM) and evaluated DeepEmotex models. 
 -  The proposed DeepEmotex-BERT model outperformed the baseline model by 23%. 
 - Implemented using Python: Scikit-learn, NumPy, Pandas, TensorFlow, PyTorch
 
-2.	EmotexStream, A two-stage framework to Discover Trends in Public Emotion, 2017
+### EmotexStream, A two-stage framework to Discover Trends in Public Emotion, 2017
 -	Developed a binary classification model to classify text messages into emotion and no-emotion classes.
 - Developed and evaluated an online method to measure public emotion and detect temporal changes of emotion in a stream of messages during events. 
 - Used Hoeffding’s inequality to define an upper bound on the probability that the sum of independent random variables deviates from its expected value. Implemented using Java.
 
+### Emotex: A Machine Learning approach to Detect Emotion in Text Streams, 2014
+-	Collected and processed large corpus of labeled messages for supervised learning of emotions in text. 
+-	Developed and evaluated machine learning models to classify text messages including Support Vector Machines (SVM), Naïve Bayes and Decision Tree. 
+-	Implemented using Python (Scikit-learn, NumPy) and Java
+		
+### LinCoh: A Feature Selection approach using Linear Coherent Bi-Clustering via Beam Searching and Sample Set Clustering, 2012
+-Developed a method to find linear coherent bi-clusters in Gene Expression Microarray data. Our method exploits a robust technique to identify conditionally correlated genes, combined with an efficient density-based search for clustering sample sets. Implemented using MatLab	
+
+### Annoki, A Wiki tool for researchers, 2011
+-	Collaborated in Annoki project which is a social Wiki tool for researchers
+-	Developed a graphical web interface for Annoki 
+-	Implemented using Adobe Spring-Flex, PHP and MySQL
 
 
 
