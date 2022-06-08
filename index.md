@@ -37,6 +37,10 @@ My current research focuses on learning from few labeled examples through transf
 ### LinCoh: A Feature Selection approach using Linear Coherent Bi-Clustering via Beam Searching and Sample Set Clustering, 2012
 -Developed a method to find linear coherent bi-clusters in Gene Expression Microarray data. Our method exploits a robust technique to identify conditionally correlated genes, combined with an efficient density-based search for clustering sample sets. Implemented using MatLab	
 
+### NLP4SE: Analyzing Natural Language Artifacts of the Software Process
+- Designed and developed a tool to extract structured knowledge from textual data in software repositories (using Java, XQuery, DB2, XML, Stanford NLP tools: PoS tagger, Dependency Parser)
+- Extracted relations among named entities via Hierarchical Clustering of blogs (using Java, MySQL, Stanford NLP) 
+
 ### Annoki, A Wiki tool for researchers, 2011
 -	Collaborated in Annoki project which is a social Wiki tool for researchers
 -	Developed a graphical web interface for Annoki 
