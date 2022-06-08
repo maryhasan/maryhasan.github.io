@@ -1,4 +1,3 @@
-# maryam.github.io
 ## Maryam Hasan
 
 I am interested in developing efficient machine learning and deep learning algorithms to solve challenging problems in natural language processing and natural language understanding. 
