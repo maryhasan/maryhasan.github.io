@@ -3,18 +3,6 @@ I completed my PhD in computer science at the Worcester Polytechnic Institute in
 
 My current research focuses on learning from few labeled examples through transfer and semi-supervised learning.
 
-## Publications
-
--	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, DeepEmotex: Classifying Emotion in Text Messages using Deep Transfer Learning, IEEE Big Data: Machine Learning on Big Data (IEEE BigData, MLBD), December 2021. 
--	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, Automatic Emotion Detection in Text Streams by Analyzing Twitter data, International Journal of Data Science and Analytics, Springer 2019.
--	Maryam Hasan, Elke Rundensteiner, Xiangnan Kong, Using Social Sensing to Discover Trends in Public Emotion, In Proceedings of IEEE International Conference on Semantic Computing (IEEE ICSC), 2017.
--	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, Using Hashtags as Labels for Supervised Learning of Emotions in Twitter Messages, In Proceedings of ACM SIGKDD Workshop on Health Informatics (HI-KDD), August 2014.
--	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, EMOTEX: Detecting Emotions in Twitter Messages, In Proceedings of the 6th ASE International Conference on Social Computing, SocialCom, May 2014.
--	Di Yang, Kaiyu Zhao, Maryam Hasan, Hanyuan Lu, Elke Rundensteiner and Matthew Ward, Mining and Linking Patterns across Live Data Streams and Stream Archives, VLDB, October 2013.
--	Yi Shi, Maryam Hasan, Zhipeng Cai, Guohui Lin and Dale Schuurmans, Linear Coherent Bi-clustering via Beam Searching and Sample Set Clustering, International Journal of Discrete Mathematics, Algorithms and Applications (DMAA). December 2011.
--	Maryam Hasan, Eleni Stroulia, Denilson Barbosa and Manar Alalfi, Analyzing Natural Language Artifacts of the Software Process, Early Research Achievement track of the 26th IEEE International Conference on Software Maintenance (ICSM'2010), Timisoara, Romania, September 2010.
--	Yi Shi, Maryam Hasan, Zhipeng Cai, Guohui Lin and Dale Schuurmans, Linear coherent bi-cluster discovery via beam detection and sample set clustering, International Conference on Combinatorial Optimization and Applications (COCOA 2010). The Big Island, Hawaii, United States. December 2010.
-
 ## Projects
 ### DeepEmotex: A Deep Transfer Learning framework to Classify Emotion in Text Messages, 2021
 -	Developed a deep transfer learning method to learn domain-specific features from context.
@@ -50,6 +38,17 @@ My current research focuses on learning from few labeled examples through transf
 -	Developed a graphical web interface for Annoki 
 -	Implemented using Adobe Spring-Flex, PHP and MySQL
 
+## Publications
+
+-	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, DeepEmotex: Classifying Emotion in Text Messages using Deep Transfer Learning, IEEE Big Data: Machine Learning on Big Data (IEEE BigData, MLBD), December 2021. 
+-	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, Automatic Emotion Detection in Text Streams by Analyzing Twitter data, International Journal of Data Science and Analytics, Springer 2019.
+-	Maryam Hasan, Elke Rundensteiner, Xiangnan Kong, Using Social Sensing to Discover Trends in Public Emotion, In Proceedings of IEEE International Conference on Semantic Computing (IEEE ICSC), 2017.
+-	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, Using Hashtags as Labels for Supervised Learning of Emotions in Twitter Messages, In Proceedings of ACM SIGKDD Workshop on Health Informatics (HI-KDD), August 2014.
+-	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, EMOTEX: Detecting Emotions in Twitter Messages, In Proceedings of the 6th ASE International Conference on Social Computing, SocialCom, May 2014.
+-	Di Yang, Kaiyu Zhao, Maryam Hasan, Hanyuan Lu, Elke Rundensteiner and Matthew Ward, Mining and Linking Patterns across Live Data Streams and Stream Archives, VLDB, October 2013.
+-	Yi Shi, Maryam Hasan, Zhipeng Cai, Guohui Lin and Dale Schuurmans, Linear Coherent Bi-clustering via Beam Searching and Sample Set Clustering, International Journal of Discrete Mathematics, Algorithms and Applications (DMAA). December 2011.
+-	Maryam Hasan, Eleni Stroulia, Denilson Barbosa and Manar Alalfi, Analyzing Natural Language Artifacts of the Software Process, Early Research Achievement track of the 26th IEEE International Conference on Software Maintenance (ICSM'2010), Timisoara, Romania, September 2010.
+-	Yi Shi, Maryam Hasan, Zhipeng Cai, Guohui Lin and Dale Schuurmans, Linear coherent bi-cluster discovery via beam detection and sample set clustering, International Conference on Combinatorial Optimization and Applications (COCOA 2010). The Big Island, Hawaii, United States. December 2010.
 
 ### Teaching
 I had opportunities to teach several courses at SF stae Universities to graduate and undergraduate students:
