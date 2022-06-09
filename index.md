@@ -35,7 +35,7 @@ My current research focuses on learning from few labeled examples through transf
 -	Implemented using Python (Scikit-learn, NumPy) and Java
 		
 ### LinCoh: A Feature Selection approach using Linear Coherent Bi-Clustering via Beam Searching and Sample Set Clustering, 2012
--Developed a method to find linear coherent bi-clusters in Gene Expression Microarray data. Our method exploits a robust technique to identify conditionally correlated genes, combined with an efficient density-based search for clustering sample sets. Implemented using MatLab	
+- Developed a method to find linear coherent bi-clusters in Gene Expression Microarray data. Our method exploits a robust technique to identify conditionally correlated genes, combined with an efficient density-based search for clustering sample sets. Implemented using MatLab	
 [PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/10.1.1.465.2398.pdf)
 
 ### NLP4SE: Analyzing Natural Language Artifacts of the Software Process, 2010
