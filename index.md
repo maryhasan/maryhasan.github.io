@@ -4,7 +4,7 @@ I completed my PhD in computer science at the Worcester Polytechnic Institute in
 My current research focuses on learning from few labeled examples through transfer and semi-supervised learning.
 
 
-## Projects
+# Projects
 ### DeepEmotex: A Deep Transfer Learning framework to Classify Emotion in Text Messages, 2021
 -  Developed a deep transfer learning method to learn domain-specific features from context.
 - Fine-tuned pre-trained natural language models (e.g., BERT and USE) on the target classification task. 
@@ -39,7 +39,7 @@ My current research focuses on learning from few labeled examples through transf
 -	Developed a graphical web interface for Annoki 
 -	Implemented using Adobe Spring-Flex, PHP and MySQL
 
-## Publications
+# Publications
 
 -	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, DeepEmotex: Classifying Emotion in Text Messages using Deep Transfer Learning, IEEE Big Data: Machine Learning on Big Data (IEEE BigData, MLBD), December 2021. 
 -	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, Automatic Emotion Detection in Text Streams by Analyzing Twitter data, International Journal of Data Science and Analytics, Springer 2019.
@@ -51,7 +51,7 @@ My current research focuses on learning from few labeled examples through transf
 -	Maryam Hasan, Eleni Stroulia, Denilson Barbosa and Manar Alalfi, Analyzing Natural Language Artifacts of the Software Process, Early Research Achievement track of the 26th IEEE International Conference on Software Maintenance (ICSM'2010), Timisoara, Romania, September 2010.
 -	Yi Shi, Maryam Hasan, Zhipeng Cai, Guohui Lin and Dale Schuurmans, Linear coherent bi-cluster discovery via beam detection and sample set clustering, International Conference on Combinatorial Optimization and Applications (COCOA 2010). The Big Island, Hawaii, United States. December 2010.
 
-### Teaching
+# Teaching
 I had opportunities to teach several courses at SF Stae Universities to graduate and undergraduate students:
 - [CSC775](https://cs.sfsu.edu/sites/default/files/syllabi/675Desc.pdf): Database Management Systems course to graduate students
 - [CSC675](https://cs.sfsu.edu/sites/default/files/syllabi/675Desc.pdf): Database Management Systems course to undergraduate students
