@@ -3,6 +3,8 @@ I completed my PhD in computer science at the Worcester Polytechnic Institute in
 
 My current research focuses on learning from few labeled examples through transfer and semi-supervised learning.
 
+[Google Scholar](https://scholar.google.com/citations?user=OJgfwjQAAAAJ)
+[Email](mhasan@wpi.edu)
 
 # Projects
 ### DeepEmotex: A Deep Transfer Learning framework to Classify Emotion in Text Messages, 2021
