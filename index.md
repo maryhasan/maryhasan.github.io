@@ -57,3 +57,11 @@ I had opportunities to teach several courses at SF Stae Universities to graduate
 - [CSC675](https://cs.sfsu.edu/sites/default/files/syllabi/675Desc.pdf): Database Management Systems course to undergraduate students
 - [CSC146](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=42151): Data Structures and Algorithms 
 
+I was Teaching Assistant for several courses at WPI:
+- CS 2102: Object Oriented Design using Java
+- CSC411: Machine Learning and Data Mining
+- DS 501, Introduction to Data Science 
+- CSC373: Algorithm Design, Analysis and Complexity
+- CS 4432, Database Systems II (Graduate students)
+- CS 5084, Algorithms design and analysis (Graduate students)
+
