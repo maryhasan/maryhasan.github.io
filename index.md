@@ -55,5 +55,5 @@ My current research focuses on learning from few labeled examples through transf
 I had opportunities to teach several courses at SF stae Universities to graduate and undergraduate students:
 - [CSC775](https://cs.sfsu.edu/sites/default/files/syllabi/675Desc.pdf): Database Management Systems course to graduate students
 - [CSC675](https://cs.sfsu.edu/sites/default/files/syllabi/675Desc.pdf): Database Management Systems course to undergraduate students
-- [CSC](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=42151): Data Structures and Algorithms 
+- [CSC146](https://catalog.sjsu.edu/preview_course_nopop.php?catoid=10&coid=42151): Data Structures and Algorithms 
 
