@@ -5,7 +5,7 @@ My current research focuses on learning from few labeled examples through transf
 
 [Google Scholar](https://scholar.google.com/citations?user=OJgfwjQAAAAJ)
 
-[Email](mhasan@wpi.edu)
+[CV]()
 
 # Projects
 ### DeepEmotex: A Deep Transfer Learning framework to Classify Emotion in Text Messages, 2021
