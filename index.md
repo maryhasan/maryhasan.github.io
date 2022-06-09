@@ -22,7 +22,7 @@ My current research focuses on learning from few labeled examples through transf
 -  Developed a baseline neural network model (i.e., Bi-LSTM) and evaluated DeepEmotex models. 
 -  The proposed DeepEmotex-BERT model outperformed the baseline model by 23%. 
 - Implemented using Python: Scikit-learn, NumPy, Pandas, TensorFlow, PyTorch
-[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/10.1.1.465.2398.pdf)
+[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/2536274.2536312.pdf)
 
 ### EmotexStream, A two-stage framework to Discover Trends in Public Emotion, 2017
 -	Developed a binary classification model to classify text messages into emotion and no-emotion classes.
