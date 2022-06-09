@@ -28,7 +28,7 @@ My current research focuses on learning from few labeled examples through transf
 -	Developed a binary classification model to classify text messages into emotion and no-emotion classes.
 - Developed and evaluated an online method to measure public emotion and detect temporal changes of emotion in a stream of messages during events. 
 - Used Hoeffding’s inequality to define an upper bound on the probability that the sum of independent random variables deviates from its expected value. Implemented using Java.
-[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/MaryamHasanIEEEBigData2021.pdf)
+[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/MaryamHasanJournalPaper-JDSA.pdf)
 
 ### Emotex: A Machine Learning approach to Detect Emotion in Text Streams, 2014
 -	Collected and processed large corpus of labeled messages for supervised learning of emotions in text. 
