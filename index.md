@@ -22,13 +22,13 @@ My current research focuses on learning from few labeled examples through transf
 -  Developed a baseline neural network model (i.e., Bi-LSTM) and evaluated DeepEmotex models. 
 -  The proposed DeepEmotex-BERT model outperformed the baseline model by 23%. 
 - Implemented using Python: Scikit-learn, NumPy, Pandas, TensorFlow, PyTorch
-[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/2536274.2536312.pdf)
+[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/MaryamHasanIEEEBigData2021.pdf)
 
 ### EmotexStream, A two-stage framework to Discover Trends in Public Emotion, 2017
 -	Developed a binary classification model to classify text messages into emotion and no-emotion classes.
 - Developed and evaluated an online method to measure public emotion and detect temporal changes of emotion in a stream of messages during events. 
 - Used Hoeffding’s inequality to define an upper bound on the probability that the sum of independent random variables deviates from its expected value. Implemented using Java.
-[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/10.1.1.465.2398.pdf)
+[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/MaryamHasanIEEEBigData2021.pdf)
 
 ### Emotex: A Machine Learning approach to Detect Emotion in Text Streams, 2014
 -	Collected and processed large corpus of labeled messages for supervised learning of emotions in text. 
