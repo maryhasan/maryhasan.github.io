@@ -43,7 +43,7 @@ My current research focuses on learning from few labeled examples through transf
 ### NLP4SE: Analyzing Natural Language Artifacts of the Software Process, 2010
 - Designed and developed a tool to extract structured knowledge from textual data in software repositories (using Java, XQuery, DB2, XML, Stanford NLP tools: PoS tagger, Dependency Parser)
 - Extracted relations among named entities via Hierarchical Clustering of blogs (using Java, MySQL, Stanford NLP) 
-[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/10.1.1.465.2398.pdf)
+[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/Analyzing_natural-language_artifacts_of_the_software_process.pdf)
 
 ### Annoki, A Wiki tool for researchers, 2011
 -	Collaborated in Annoki project which is a social Wiki tool for researchers
