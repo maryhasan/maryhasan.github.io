@@ -34,7 +34,7 @@ My current research focuses on learning from few labeled examples through transf
 -	Collected and processed large corpus of labeled messages for supervised learning of emotions in text. 
 -	Developed and evaluated machine learning models to classify text messages including Support Vector Machines (SVM), Naïve Bayes and Decision Tree. 
 -	Implemented using Python (Scikit-learn, NumPy) and Java
-[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/10.1.1.465.2398.pdf)
+[PDF](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/C30.pdf)
 		
 ### LinCoh: A Feature Selection approach using Linear Coherent Bi-Clustering via Beam Searching and Sample Set Clustering, 2012
 - Developed a method to find linear coherent bi-clusters in Gene Expression Microarray data. Our method exploits a robust technique to identify conditionally correlated genes, combined with an efficient density-based search for clustering sample sets. Implemented using MatLab	
