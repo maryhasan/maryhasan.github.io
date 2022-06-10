@@ -5,7 +5,7 @@ My current research focuses on learning from few labeled examples through transf
 
 [Google Scholar](https://scholar.google.com/citations?user=OJgfwjQAAAAJ)
 
-[CV](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/MaryamHasan-Resume2022.pdf)
+[CV](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/MaryamHasanResume2022.pdf)
 
 # Projects
 ### DeepEmotex: A Deep Transfer Learning framework to Classify Emotion in Text Messages, 2021
