@@ -1,5 +1,5 @@
 I am interested in developing efficient machine learning and deep learning algorithms to solve challenging problems in natural language processing and natural language understanding. 
-I completed my PhD in computer science at the Worcester Polytechnic Institute in May, 2021. My advisors were Professor [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and Professor [Emmanuel Agu](https://www.wpi.edu/people/faculty/emmanuel). My PhD research has been mainly focused on text classification using Machine Learning, Deep Transfer Learning and Natural Language Processing methods. 
+I completed my PhD in computer science at the Worcester Polytechnic Institute in May, 2021. My advisors were Professor [Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst) and Professor [Emmanuel Agu](https://www.wpi.edu/people/faculty/emmanuel). My PhD research has been mainly focused on text classification using Machine Learning, Deep Transfer Learning and Natural Language Processing methods. Before that, I received my Master in Computer Science from University of Alberta in Canada. 
 
 My current research focuses on learning from few labeled examples through transfer and semi-supervised learning.
 
