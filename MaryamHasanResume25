@@ -1,1 +1,77 @@
 
+Maryam Hasan
+San Jose, California, www.linkedin.com/in/maryam-hasan-86167aa, mhasan@wpi.edu, Phone: 617-306-2110
+
+Professional Summary
+Senior Data Scientist with over 5 years of experience in machine learning, data analysis, and NLP, focused on developing scalable, high-impact AI models for classification and discovery across product catalogs. Proven ability in applying deep learning, LLMs, and generative AI to improve user experience and business outcomes through optimization methods, feature engineering, and model assessment. Passionate about optimizing search quality, analyzing customer behavior, and driving automated insights in production environments at global scale.
+
+Education
+Ph.D. in Computer Science, Worcester Polytechnic Institute (WPI), Worcester, MA, US, 2013 – 2021
+Thesis: Automatic Emotion Detection in Text Messages using Supervised Learning
+- GPA: 3.8/4.0, Research Award at Junior Ph.D. Level, CS Department, 2014
+	
+Master of Science in Computer Science, University of Alberta, Edmonton, Canada, 2008 – 2011
+Thesis: Extracting Structured Knowledge from Textual Data in Software Repositories
+- GPA: 3.7/4.0, Heritage Award for Excellence in Outreach, CS Department, 2011
+			
+
+Technical Skills
+Programming: Python, SQL, Java, C++
+Tools: IPython Notebook, VSCode, GCP/BigQuery, VertexAI, Azure, GitHub, Looker
+Machine Learning and Data Analysis: Scikit-learn, NumPy, Pandas, PyTorch, TensorFlow, Matplotlib, Large Language Models, A/B testing
+
+
+Professional Experiences 
+Experienced in developing solutions for data challenges, including fine-tuning LLMs to reduce harmful content, developing question answering models, and building robust models for intent and entity detection in search-to-cart conversation. 
+
+Senior Data Scientist, Walmart Global Tech, Sunnyvale, CA, 2022-present
+•	Responsible AI for Product Safety: fine-tuned and evaluated Llama 3.2 (3B/1B) models using synthetically generated product Q&A data, reducing hallucination and harmful outputs in LLM responses. 
+•	LLM-based Conversational Agents: Built conversational AI agents using LLMs powered by retrieval-augmented generation (RAG) for customer support and shopping discovery. 
+•	Product Comparison QA System: Collaborated in designing and training a deep learning model to answer questions about several products and automate product comparison and Q&A resolution, accelerating decision-making.
+•	Search-to-Cart NLP Modeling: Developed and evaluated RoBERTa/BERT classifiers intent detection and entity recognition in shopping-related queries to improve e-commerce conversion pipelines. 
+
+Research Assistant, Data Science Research Lab, Computer Science department, WPI, 2013 - 2021
+•	Developed a hierarchical clustering model to detect topics on Twitter stream messages.
+•	Built and evaluated ML models (SVM, Naive Bayes, KNN) to classify emotions in text messages with 90% accuracy.
+•	Developed transformer neural networks (RNN, Bi-LSTM, BERT Transformers) to learn emotion-specific embeddings by fine-tuning language models via transfer learning 
+
+Software Engineer Intern, Oracle Company, Marlborough, MA, June - September 2013
+•	Enhanced logging functionality by developing a Java program with Logback, reducing debugging time.
+•	Authored comprehensive unit test plans and JUnit test cases, ensuring test coverage for new features.
+
+Collaborating Researcher, InfoLab, CSAIL, Massachusetts Institute of Technology, February 2012- May 2012
+•	Contributed to the START project by developing a web scraper to extract symbols and synonyms from movie websites. Also extracting metadata for the symbols, enabling downstream tasks in movie search system.
+			
+Software Engineer, Multimedia Lab, University of Alberta, Canada, January - July 2011
+•	Collaborated on a web application for student assessments, developing a user interface with Java and Google Web Toolkit, and a MySQL backend.
+
+Research Assistant, Service Systems Research Lab, University of Alberta, Edmonton, May 2009- Dec 2010
+•	Developed a tool using XQuery, DB2, and Stanford NLP to extract entity relations from software repositories.
+•	Implemented hierarchical clustering to extract named entity relations for faster analysis of unstructured data.
+
+Software Engineer, Software Engineering Research Lab, University of Alberta, Edmonton, June 2008-Sep 2008 
+•	Developed a graphical web interface for a Wiki tool using PHP, Adobe Flex and MySQL, enhancing researcher collaboration.
+
+
+Teaching Experiences
+•	Lecturer, San Francisco State University (2016 – 2022): Taught Introduction to Database Management Systems to 150+ undergraduate and graduate students annually.
+•	Lecturer, San Jose State University (2019): Taught Data Structures and Algorithms course to 50+ students.
+
+Selected Publications
+-	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, DeepEmotex: Classifying Emotion in Text Messages using Deep Transfer Learning, IEEE Big Data: Machine Learning on Big Data (IEEE BigData, MLBD), December 2021. 
+-	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, Automatic Emotion Detection in Text Streams by Analyzing Twitter data, International Journal of Data Science and Analytics, Springer 2019.
+-	Maryam Hasan, Elke Rundensteiner, Xiangnan Kong, Using Social Sensing to Discover Trends in Public Emotion, In Proceedings of IEEE International Conference on Semantic Computing (IEEE ICSC), 2017.
+-	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, Using Hashtags as Labels for Supervised Learning of Emotions in Twitter Messages, In Proceedings of ACM SIGKDD (HI-KDD), August 2014.
+-	Maryam Hasan, Elke Rundensteiner, Emmanuel Agu, EmoTex: Detecting Emotions in Twitter Messages, In Proceedings of the 6th ASE International Conference on Social Computing, SocialCom, May 2014.
+-	Di Yang, Kaiyu Zhao, Maryam Hasan, Hanyuan Lu, Elke Rundensteiner and Matthew Ward, Mining and Linking Patterns across Live Data Streams and Stream Archives, VLDB, October 2013.
+-	Yi Shi, Maryam Hasan, Zhipeng Cai, Guohui Lin and Dale Schuurmans, Linear Coherent Bi-clustering via Beam Searching and Sample Set Clustering, International Journal of Discrete Mathematics, Algorithms and Applications (DMAA), December 2011.
+
+
+Leadership and Awards 
+Honorable Paper Awards (Top 6), IEEE International Conference on Semantic Computing (ICSC) February 2017
+SIGKDD travel award, Worcester Polytechnic Institute, Massachusetts, July 2014 and August 2016
+Research Excellence Award of junior PhD, CS Department, Worcester Polytechnic Institute, March 2014
+Alberta Heritage Award, Graduate Award for Excellence in Research and Outreach activities, University of Alberta, 2011
+
+
+
