@@ -10,6 +10,15 @@ My ongoing research focuses on improving model generalization with limited label
 [CV](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/MaryamHasanDS-CV2025.pdf)
 
 # Projects
+### Responsible AI for Product Safety: 
+fine-tuned and evaluated Llama 3.2 (3B/1B) models using synthetically generated product Q&A data, reducing hallucination and harmful outputs in LLM responses. 
+### LLM-based Conversational Agents: 
+Built conversational AI agents using LLMs powered by retrieval-augmented generation (RAG) for customer support and shopping discovery. 
+### Product Comparison QA System: 
+Collaborated in designing and training a deep learning model to answer questions about several products and automate product comparison and Q&A resolution, accelerating decision-making.
+### Search-to-Cart NLP Modeling: 
+Developed and evaluated RoBERTa/BERT classifiers intent detection and entity recognition in shopping-related queries to improve e-commerce conversion pipelines. 
+
 ### DeepEmotex: A Deep Transfer Learning framework to Classify Emotion in Text Messages, 2021
 -  Developed a deep transfer learning method to learn domain-specific features from context.
 - Fine-tuned pre-trained natural language models (e.g., BERT and USE) on the target classification task. 
