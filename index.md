@@ -7,7 +7,7 @@ My ongoing research focuses on improving model generalization with limited label
 
 [Google Scholar](https://scholar.google.com/citations?user=OJgfwjQAAAAJ)
 
-[CV](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/MaryamHasanResume22.pdf)
+[CV](https://github.com/maryhasan/maryhasan.github.io/blob/gh-pages/MaryamHasanDS-CV2025.pdf)
 
 # Projects
 ### DeepEmotex: A Deep Transfer Learning framework to Classify Emotion in Text Messages, 2021
